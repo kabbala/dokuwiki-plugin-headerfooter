@@ -1,3 +1,3 @@
 <?php
-$conf['separation'] = 'nothing';
+$conf['separation'] = 'paragraph';
 ?>
